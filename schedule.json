@@ -1,0 +1,52 @@
+{
+  "days": {
+    "TODAY": {
+      "enabled": true,
+      "followup_message": "@everyone Enjoy! 😋  # ! | How-To-Access",
+      "posts": [
+        { "name": "Spiritemoon", "mega": "https://direct-link.net/446116/eDWwX5OBxD9e", "image": "posts/today-1.jpg" },
+        { "name": "Kiki Isobel", "mega": "https://link-hub.net/446116/jr8dByo7V3jy", "image": "posts/today-2.jpg" },
+        { "name": "Gothcharlotte", "mega": "https://link-center.net/446116/mv3ktHEOWf8N", "image": "posts/today-3.jpg" },
+        { "name": "Princessbbgirl", "mega": "https://link-hub.net/446116/76Zmq1HhG3Xc", "image": "posts/today-4.jpg" },
+        { "name": "Adria Rose", "mega": "https://link-center.net/446116/tvTvhP4hfjSy", "image": "posts/today-5.jpg" },
+        { "name": "Wildhalli", "mega": "https://link-center.net/446116/5A4rCkCsoFnL", "image": "posts/today-6.jpg" },
+        { "name": "Csblondebombshell", "mega": "https://link-center.net/446116/VsA81dQKGpm7", "image": "posts/today-7.jpg" },
+        { "name": "Mayaxxhill", "mega": "https://direct-link.net/446116/hSNT4hF3Camm", "image": "posts/today-8.jpg" },
+        { "name": "Avahillxox", "mega": "https://link-hub.net/446116/XUwr2W2jFWc2", "image": "posts/today-9.jpg" },
+        { "name": "Lia Engel", "mega": "https://link-center.net/446116/fnmRKCwG9Pta", "image": "posts/today-10.jpg" }
+      ]
+    },
+    "TOMORROW": {
+      "enabled": true,
+      "followup_message": "@everyone Enjoy! 😋  # ! | How-To-Access",
+      "posts": [
+        { "name": "Layla Dream", "mega": "https://link-center.net/446116/430hyCn4i1Bs", "image": "posts/tomorrow-1.jpg" },
+        { "name": "Devon Jenelle", "mega": "https://link-hub.net/446116/z4ok0NW9t0Tz", "image": "posts/tomorrow-2.jpg" },
+        { "name": "Kaitviolet", "mega": "https://link-target.net/446116/tHe9kOtXiYFo", "image": "posts/tomorrow-3.jpg" },
+        { "name": "LillyPilly", "mega": "https://link-center.net/446116/YWWXx2fNVL8V", "image": "posts/tomorrow-4.jpg" },
+        { "name": "Taylor Peach", "mega": "https://direct-link.net/446116/HNCcnSwEqUN4", "image": "posts/tomorrow-5.jpg" },
+        { "name": "AlaskaClarke", "mega": "https://link-center.net/446116/hCv0LoyQU5Kc", "image": "posts/tomorrow-6.jpg" },
+        { "name": "Angiemx", "mega": "https://direct-link.net/446116/0iChUBAWjE1E", "image": "posts/tomorrow-7.jpg" },
+        { "name": "Joey Fisher", "mega": "https://link-center.net/446116/epvTG3TOyxWN", "image": "posts/tomorrow-8.jpg" },
+        { "name": "Marci Moral", "mega": "https://link-hub.net/446116/WTpVg7sRjzoK", "image": "posts/tomorrow-9.jpg" },
+        { "name": "Alix Berkly", "mega": "https://direct-link.net/446116/0GiXiyutHRzH", "image": "posts/tomorrow-10.jpg" }
+      ]
+    },
+    "DAY_AFTER": {
+      "enabled": true,
+      "followup_message": "@everyone Enjoy! 😋  # ! | How-To-Access",
+      "posts": [
+        { "name": "Day-after Post 1", "mega": "https://mega.nz/example-dayafter-1", "image": "posts/dayafter-1.jpg" },
+        { "name": "Day-after Post 2", "mega": "https://mega.nz/example-dayafter-2", "image": "posts/dayafter-2.jpg" },
+        { "name": "Day-after Post 3", "mega": "https://mega.nz/example-dayafter-3", "image": "posts/dayafter-3.jpg" },
+        { "name": "Day-after Post 4", "mega": "https://mega.nz/example-dayafter-4", "image": "posts/dayafter-4.jpg" },
+        { "name": "Day-after Post 5", "mega": "https://mega.nz/example-dayafter-5", "image": "posts/dayafter-5.jpg" },
+        { "name": "Day-after Post 6", "mega": "https://mega.nz/example-dayafter-6", "image": "posts/dayafter-6.jpg" },
+        { "name": "Day-after Post 7", "mega": "https://mega.nz/example-dayafter-7", "image": "posts/dayafter-7.jpg" },
+        { "name": "Day-after Post 8", "mega": "https://mega.nz/example-dayafter-8", "image": "posts/dayafter-8.jpg" },
+        { "name": "Day-after Post 9", "mega": "https://mega.nz/example-dayafter-9", "image": "posts/dayafter-9.jpg" },
+        { "name": "Day-after Post 10", "mega": "https://mega.nz/example-dayafter-10", "image": "posts/dayafter-10.jpg" }
+      ]
+    }
+  }
+}

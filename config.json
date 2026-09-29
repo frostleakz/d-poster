@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "channel_id": "",
+  "timezone": "Europe/Oslo",
+  "post_hour": 20,
+  "post_minute": 0,
+  "followup_hour": 20,
+  "followup_minute": 3,
+  "delay_between_posts_seconds": 2,
+  "mention_everyone": true,
+  "post_template": "🌴 NAME: {name}\n📦 Mega: {mega}\n\n[SKIP ADS!](https://plugleaksvip.com)",
+  "skip_ads_url": "",
+  "default_followup_message": "@everyone Enjoy! 😋  # ! | How-To-Access"
+}
